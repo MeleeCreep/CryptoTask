@@ -1,0 +1,15 @@
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.exe
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.deps.json
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.runtimeconfig.json
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.runtimeconfig.dev.json
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.dll
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\ref\XOR_shifr.dll
+C:\Users\denxa\source\repos\XOR_shifr\bin\Debug\net5.0\XOR_shifr.pdb
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.AssemblyInfoInputs.cache
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.AssemblyInfo.cs
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.csproj.CoreCompileInputs.cache
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.dll
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\ref\XOR_shifr.dll
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.pdb
+C:\Users\denxa\source\repos\XOR_shifr\obj\Debug\net5.0\XOR_shifr.genruntimeconfig.cache
